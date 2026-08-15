@@ -4,6 +4,9 @@ in real time from any web page.WebRTC Stream Recorder detects and records WebRTC
 Perfect for capturing live streams, video calls, conferences or any content 
 streamed via WebRTC on platforms such as Matrix, Discord, Jitsi, BigBlueButton and many others.
 
+<img width="423" height="579" alt="image" src="https://github.com/user-attachments/assets/5f5f59cc-9211-4a21-b5bc-4e93ca91db66" />
+
+
 # Features :
 
 - Automatic detection of all active WebRTC streams on the page.
