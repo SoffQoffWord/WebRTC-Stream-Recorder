@@ -32,8 +32,8 @@ Recorded files remain only on your machine in your Downloads folder.
 No data is sent to any external server.
 Source code is fully readable and not minified.
 
-# How to install :
+# Link :
 
-about:debugging#/runtime/this-firefox
+https://addons.mozilla.org/fr/developers/addon/web_rtc_recorder/versions
 
 Firefox 140.0+
